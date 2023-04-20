@@ -28,7 +28,7 @@ project = "proyecto"
 setup(
     name=project,
     python_requires='>=3.8',
-    version = "4.0.0",
+    version = "1.0.0",
     author="Usuario",
     author_email="usuario@localhost.local",
     description="Proyecto Python con setuptools",
