@@ -2,10 +2,10 @@
 """Pruebas calculadora AVANZADA"""
 
 import unittest
-from proyecto.funciones import hello_world
+from src.proyecto.funciones import hello_world
 
 
-class MyFirstTests(unittest.TestCase):
+class TestFunciones(unittest.TestCase):
     """Test Ejemplo TDD"""
     def test_hello_world(self):
         """Test Hello_world"""
